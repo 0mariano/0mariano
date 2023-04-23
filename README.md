@@ -3,6 +3,6 @@
 <br />
 
 
-- <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin" style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">Visita mi perfil de LinkedIn</a>
+- <a href="https://www.linkedin.com/in/mariano-alfonso-667a60226" style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">Follow Me</a>
 - <a href="https://twitter.com/MARIANO03_/"><img src="https://img.shields.io/badge/Follow Me-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="https://0mariano.github.io/"><img height="30px" src="https://img.shields.io/badge/Visit%20my%20Website-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
