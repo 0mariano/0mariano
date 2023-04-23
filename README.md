@@ -1,4 +1,6 @@
-<p align="center"><a href="https://0mariano.github.io"><img width="30%" src="./images/maa.png" /></a></p>
+# Hi I'm [MARIANO]👋
+
+<p align="right"><a href="https://0mariano.github.io"><img width="30%" src="./images/maa.png" /></a></p>
 
 <br />
 
