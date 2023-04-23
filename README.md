@@ -1,4 +1,4 @@
-# Hi I'm <span style="color:green"> MARIANO </span>👋
+# Hi I'm *MARIANO👋
 
 
 
