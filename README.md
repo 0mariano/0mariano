@@ -4,10 +4,9 @@
 **Student and enthusiast of CybeSecurity and CTFs, committed to constant learning. Currently studying the first year of my degree in Cybersecurity where I am developing my knowledge. In addition, I share my learning process in this [Blog](https://0mariano.github.io) where I publish my acquired knowledge. I am always willing to learn more and keep growing in this field of Cybersecurity!** 
 
 
-
-<p align="right"><a href="https://0mariano.github.io"><img width="15%" src="./images/maa.png" /></a></p> 
-
- <br />
+<p style="text-align:right; padding-right: 20%;">
+    <a href="https://0mariano.github.io"><img src="./images/maa.png" width="20%" /></a>
+</p>
 
 
 
