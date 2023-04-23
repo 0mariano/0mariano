@@ -1,4 +1,8 @@
-# Hi I'm [MARIANO](https://0mariano.github.io)👋
+# Hi I'm [MARIANO]👋
+
+
+**Student and enthusiast of CybeSecurity and CTFs, committed to constant learning. Currently studying the first year of my degree in Cybersecurity where I am developing my knowledge. In addition, I share my learning process in this [Blog](https://0mariano.github.io) where I publish my acquired knowledge. I am always willing to learn more and keep growing in this field of Cybersecurity!**
+
 
 
 
@@ -7,7 +11,6 @@
 <br />
 
 
-**Student and enthusiast of CybeSecurity and CTFs, committed to constant learning. Currently studying the first year of my degree in Cybersecurity where I am developing my knowledge. In addition, I share my learning process in this [Blog](https://0mariano.github.io) where I publish my acquired knowledge. I am always willing to learn more and keep growing in this field of Cybersecurity!**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Contact%20me%20through%20LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariano-alfonso-667a6022/)](https://www.linkedin.com/in/mariano-alfonso-667a60226/)
