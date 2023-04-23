@@ -5,9 +5,8 @@
 
 
 
-  
-
-  <img style="float:right; margin-left: 20px; margin-bottom: 20px;" width="30%" src="./images/maa.png" />
+<div>
+<img style="float:right; margin-left: 20px; margin-bottom: 20px;" width="30%" src="./images/maa.png" />
 </div>
 
 
