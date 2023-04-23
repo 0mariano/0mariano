@@ -5,14 +5,9 @@
 
 
 
- <br />
-<img style="float:right; margin-left: 50px; margin-bottom: 50px;" width="30%" src="./images/maa.png" />
-
-
-
- 
-
-
+ <div>
+    <a href="https://0mariano.github.io"><img width="30%" src="./images/maa.png" /></a>
+  </div>
 
 
 
