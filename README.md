@@ -5,7 +5,7 @@
 
 
 
-<p align="right" style="float:right; width:30%;">
+<p align="right" style="float:right; width:10%;">
     <a href="https://0mariano.github.io"><img src="./images/maa.png" /></a>
 </p>
 
