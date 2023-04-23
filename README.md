@@ -5,7 +5,7 @@
 
 
 
-<p align="right"><a href="https://0mariano.github.io"><img width="0.5%" src="./images/maa.png" /></a></p> 
+<p align="right"><a href="https://0mariano.github.io"><img width="5%" src="./images/maa.png" /></a></p> 
 
  <br />
 
