@@ -2,7 +2,7 @@
 
 
 
-**Student and enthusiast of CybeSecurity and CTFs, committed to constant learning. Currently studying the first year of my degree in Cybersecurity where I am developing my knowledge. In addition, I share my learning process in this [Blog](https://0mariano.github.io) where I publish my acquired knowledge. I am always willing to learn more and keep growing in this field of Cybersecurity!** 
+**Estudiante y entusiasta de CybeSecurity y CTFs, comprometido con el aprendizaje constante. Actualmente cursando el primer año de la carrera de Ciberseguridad donde estoy desarrollando mis conocimientos. Además, comparto mi proceso de aprendizaje en este [Blog](https://0mariano.github.io) donde publico mis conocimientos adquiridos. ¡Siempre estoy dispuesto a aprender más y seguir creciendo en este campo de la Ciberseguridad!**
 
 
 
