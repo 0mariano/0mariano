@@ -19,7 +19,7 @@
 
 
 
-<br><br>
+<br>
 
 <img src="images/linea.gif"><br><br>
 
