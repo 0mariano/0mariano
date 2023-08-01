@@ -6,9 +6,9 @@
 <br>
 
 
-## <picture><img src = "https://github.com/0mariao/0mariano/images/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "/images/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0mariao/0mariano/images/about_me.gif" width = 250px></picture>
+<picture> <img align="right" src="images/about_me.gif" width = 250px></picture>
 
 <br>
 
