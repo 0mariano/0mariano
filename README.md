@@ -8,7 +8,7 @@
 
 ## <picture><img src = "/images/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="images/about_me.gif" width = 250px></picture>
+
 
 <br>
 
