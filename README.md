@@ -12,9 +12,9 @@
 
 <br>
 
-- Apasionado por la CiberSeguridad y la Impresión 3D
-- 📚 CyberSecurity Student - Actualmente **cursando primer año** de la Universidad de la Tec. Univsersitaria en Ciberseguridad 
-- 👨‍💻 CTFs Player - Escribo Write Up en mi <a href="https://0mariano.github.io">**Blog**</a>
+- 👨‍💻 Apasionado por la CiberSeguridad y la Impresión 3D
+- 📚 CyberSecurity Student - Actualmente **cursando primer año** de la Universidad de la carrera Tec. Univsersitaria en Ciberseguridad 
+- 🚩 CTFs Player - Escribo Write Up en mi <a href="https://0mariano.github.io">**Blog**</a>
 - 🌐 Pentesting Web
 
 
