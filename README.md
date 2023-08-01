@@ -3,9 +3,14 @@
 </div>
 <img src="images/Baner-maa.png"> 
 
+<br>
 
 
-## Sobre mi
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
@@ -13,8 +18,10 @@
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
 
+<br><br>
+
+<img src="images/linea.gif"><br><br>
 
 [![Website Badge](https://img.shields.io/badge/-All%20my%20links-fa0400?style=flat&logo=Google-Chrome&logoColor=white&link=https://beacons.ai/marianoalfonso)](https://beacons.ai/marianoalfonso)
 [![Gmail Badge](https://img.shields.io/badge/-Contact%20me%20through%20Email-fa5c00?style=flat&logo=Gmail&logoColor=white&link=mailto:marianoalfonso80@gmail.com)](mailto:marianoalfonso80@gmail.com)
