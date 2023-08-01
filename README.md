@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://beacons.ai/marianoalfonso">Mariano</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="(https://github.com/0mariano/0mariano/blob/main/images/Baner-maa.png)"> 
+
 
 
 ## Sobre mi
