@@ -6,7 +6,7 @@
 <br>
 
 
-## <picture><img src = "/images/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "/images/about_me.gif" width = 50px></picture> **Whoami**
 
 
 
