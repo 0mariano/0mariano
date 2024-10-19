@@ -13,7 +13,7 @@
 <br>
 
 - 👨‍💻 Apasionado por la Ciberseguridad
-- 📚 CyberSecurity Student - Actualmente **cursando segundo año** de la carrera Tec. Univsersitaria en Ciberseguridad 
+- 📚 CyberSecurity Student - Actualmente **cursando segundo año** de la carrera Tec. Universitaria en Ciberseguridad 
 - 🚩 CTFs Player - Escribo Write - Ups en mi <a href="https://0mariano.github.io">**Blog**</a>
 - 🌐 Pentesting Web
 
