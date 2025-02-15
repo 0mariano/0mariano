@@ -21,4 +21,4 @@
 <a href="https://0mariano.github.io"><img width="107px" alt="~#Whoami" src="https://img.shields.io/badge/~%23%20Whoami-49ba6d?style=flat&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mariano-alfonso"><img width="80px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white"/></a> 
 <a href="mailto:marianoalfonso80@protonmail.com"><img width="60px" alt="E-Mail" src="https://img.shields.io/badge/E--Mail-D14836?style=flat&logoColor=white"/></a>
-<a href="https://0mariano.github.io"><img width="70px" alt="My Blog" src="https://img.shields.io/badge/My Blog-cc00ff?style=flat&logoColor=white"/></a>
+<a href="https://0mariano.github.io"><img width="73px" alt="My Blog" src="https://img.shields.io/badge/My Blog-cc00ff?style=flat&logoColor=white"/></a>
