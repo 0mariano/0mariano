@@ -6,11 +6,12 @@
 
 <img src="images/Banner-MA.png"> 
 
-## <picture><img src = "/images/about_me.gif" width = 50px></picture> **Whoami**
+# <picture><img src = "/images/about_me.gif" width = 50px></picture> **Whoami**
 
 <br>
 
-- 📚 CyberSecurity Student - Actualmente **cursando Tercer Año** de la carrera Tecnicatura Universitaria en Ciberseguridad 
+- 📚 CyberSecurity Student - Actualmente **cursando Tercer Año** de la carrera Tecnicatura Universitaria en Ciberseguridad
+  
 - 🚩 CTFs Player - Escribo Write - Ups en mi <a href="https://0mariano.github.io">**Blog**</a>
 
 <br>
