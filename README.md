@@ -12,7 +12,7 @@
 
 - 📚 CyberSecurity Student - Actualmente cursando Tercer Año de la carrera Tecnicatura Universitaria en Ciberseguridad
   
-- 🚩 CTFs Player - Escribo Write - Ups en mi <a href="https://0mariano.github.io">**Blog**</a>
+- 🚩 CTFs Player, escribo Write-Ups en mi <a href="https://0mariano.github.io">**Blog**</a>
 
 <br>
 
