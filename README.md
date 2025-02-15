@@ -18,6 +18,8 @@
 
 <img src="images/linea.gif"><br><br>
 
+[![E-MAIL](https://img.shields.io/badge/E--MAIL-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&link=mailto:marianoalfonso80@protonmail.com)](mailto:marianoalfonso80@protonmail.com)
+
 [![Personal Badge](https://img.shields.io/badge/~%23%20Whoami-49ba6d?style=flat&logo=About.me&logoColor=white&link=https://0mariano.github.io)](https://0mariano.github.io)
 [![Email Badge](https://img.shields.io/badge/-Contact%20me%20through%20Email-fa5c00?style=flat&logo=Gmail&logoColor=white&link=mailto:marianoalfonso80@protonmail.com)](mailto:marianoalfonso80@protonmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Contact%20me%20through%20LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariano-alfonso)](https://www.linkedin.com/in/mariano-alfonso)
