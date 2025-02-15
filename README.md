@@ -18,9 +18,7 @@
 
 <img src="images/linea.gif"><br><br>
 
-[![E-MAIL](https://img.shields.io/badge/E--MAIL-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&link=mailto:marianoalfonso80@protonmail.com)](mailto:marianoalfonso80@protonmail.com)
-
-[![Personal Badge](https://img.shields.io/badge/~%23%20Whoami-49ba6d?style=flat&logo=About.me&logoColor=white&link=https://0mariano.github.io)](https://0mariano.github.io)
-[![Email Badge](https://img.shields.io/badge/-Contact%20me%20through%20Email-fa5c00?style=flat&logo=Gmail&logoColor=white&link=mailto:marianoalfonso80@protonmail.com)](mailto:marianoalfonso80@protonmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Contact%20me%20through%20LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariano-alfonso)](https://www.linkedin.com/in/mariano-alfonso)
-[![Website Badge](https://img.shields.io/badge/-Visit%20my%20Blog-cc00ff?style=flat&logo=Google-Chrome&logoColor=white&link=https://0mariano.github.io)](https://0mariano.github.io)
+<a href="https://0mariano.github.io"><img width="107px" alt="~#Whoami" src="https://img.shields.io/badge/~%23%20Whoami-49ba6d?style=flat&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mariano-alfonso"><img width="80px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white"/></a> 
+<a href="mailto:marianoalfonso80@protonmail.com"><img width="60px" alt="E-Mail" src="https://img.shields.io/badge/E--Mail-D14836?style=flat&logoColor=white"/></a>
+<a href="https://0mariano.github.io"><img width="75px" alt="My Blog" src="https://img.shields.io/badge/My Blog-cc00ff?style=flat&logoColor=white"/></a>
